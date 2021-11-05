@@ -1,0 +1,94 @@
+@import url('https://fonts.googleapis.com/css2?family=Neucha&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Ubuntu&display=swap');
+h1,p{
+    font-family: Neucha;
+    text-align: justify;
+    font-size: 25px;
+    line-height: 40px;
+    letter-spacing: 1.5px;
+    color: rgb(71, 66, 58);
+    padding: 70px;
+}
+body{
+    margin: 0px;
+    background-color: black;
+}
+.word1{
+    background-image: url(images/Aesthetic_387.jpg);
+    background-attachment: fixed;
+    color: cornsilk;
+    font-size: 50px;
+    letter-spacing: 6px;
+    word-spacing: 9px;
+    text-align: center;
+    max-width: 100%;
+    height: 60%;
+}
+.word2{
+    background-image: url(images/Roads_6269.jpg);
+    background-attachment: fixed;
+    text-align: center;
+    color: cornsilk;
+    font-size: 50px;
+    letter-spacing: 6px;
+    word-spacing: 9px;
+    max-width: 100%;
+    height: 70%;
+}
+.word3{
+    background-image: url(images/Sky_6273.jpg);
+    background-attachment: fixed;
+    text-align: center;
+    color: cornsilk;
+    font-size: 50px;
+    letter-spacing: 6px;
+    word-spacing: 9px;
+    max-width: 100%;
+    height: 30%;
+}
+#id1{
+    font-family: Neucha;
+    text-align: justify;
+    font-size: 25px;
+    padding: 40px;
+    margin: 0px;
+    background-color:rgb(122, 110, 226);
+}
+#id2{
+    background-color: rgb(116, 136, 153);
+    margin: 0px;
+}
+#id3{
+    background-color:rgb(247, 126, 71) ;
+    margin: 0px;
+}
+.part1{
+    background-image: url(images/Nature_6120.jpeg);
+    background-blend-mode:0.7;
+    background-attachment: fixed; 
+    color: cornsilk;
+    font-size: 50px;
+    letter-spacing: 6px;
+    word-spacing: 9px;
+    text-align: center;
+    font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+}
+h2{
+    text-align: center;
+    word-spacing: 7px;
+    line-height: 20px;
+
+    font-weight: 800;
+    letter-spacing: 3px;
+    color: coral;
+}
+.footer{
+    text-align: center;
+    font-size: 65px;
+    word-spacing: 8px;
+    line-height: 20px;
+    padding-top: 100px ;
+    letter-spacing: 3px;
+    color: whitesmoke;
+    font-family: 'Ubuntu', sans-serif;
+}
